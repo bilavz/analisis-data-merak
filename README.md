@@ -59,4 +59,4 @@ Proyek ini dilindungi oleh lisensi [MIT License](LICENSE), sehingga bebas diguna
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/bilavz/analisis-data-merak.git
